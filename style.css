@@ -162,6 +162,7 @@ ul li:before {
 .sec__titles {
     color: #52d87a;
     font-size: 35px;
+    font-family: 'Rubik', sans-serif;
 }
 
 .sec__titles h4 {
@@ -182,14 +183,18 @@ ul li:before {
     justify-content: space-evenly;
 }
 
-.nomes{
+.nomes {
+    font-family: 'Rubik', sans-serif;
     color: #ffffff;
     font-size: 35px;
+    margin-top: 15px;
 }
 
 .text-muted {
+    font-family: 'Roboto', sans-serif;
     color: #52d87a;
     font-size: 20px;
+    font-weight: 500;
 }
 
 .equipe {
@@ -208,10 +213,6 @@ ul li:before {
     border-radius: 20px;
     margin-top: 23%;
     box-shadow: 10px 10px 100px #52d87a;
-}
-
-.nomes {
-    margin-top: 12px;
 }
 
 .iconeRedes {
@@ -244,6 +245,7 @@ ul li:before {
     left: 18%;
     color: #ffffff;
     font-size: 10px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .footer-main strong {
@@ -251,15 +253,9 @@ ul li:before {
 }
 
 .footer__text2 {
-    font-family: 'Times New Roman', Times, serif;
     color: #1d0783b0;
     font-size: 15px;
     margin-bottom: 0;
     margin-left: 35%;
+    font-family: 'Rubik', sans-serif;
 }
-
-
-
-
-
-
