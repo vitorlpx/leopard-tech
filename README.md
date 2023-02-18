@@ -1,4 +1,4 @@
-### Projeto Leopard Tech
+### Projeto Leopard Tech 🐯
 
 ### Objetivo:
 Criar um sistema de reconhecimento facial de alunos para entrada na escola e registro
