@@ -81,7 +81,7 @@ header {font-family: 'Bakbak One';
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 230px 0 10px 0;
+    margin: 350px 0 10px 0;
 }
 
 .sec__img {
@@ -116,7 +116,8 @@ strong {
 .section-3 {
     display: flex;
     align-items: center;
-    margin-top: 230px;
+    margin-top: 280px;
+    margin-bottom: 280px;
 }
 
 .sec__texts3 {
